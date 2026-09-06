@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://memorial.utopiadesenvolvimentos.com.br/sitemap.xml
+Sitemap: https://vendasmemorialeterno.utopiadesenvolvimentos.com.br/sitemap.xml

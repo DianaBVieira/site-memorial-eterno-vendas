@@ -30,7 +30,7 @@ python -m http.server 8140 --bind 127.0.0.1
 ## Deploy
 
 Qualquer host estático serve (GitHub Pages, Firebase Hosting, Cloudflare Pages,
-Netlify). O domínio pretendido é `memorial.utopiadesenvolvimentos.com.br` — ao
+Netlify). O domínio pretendido é `vendasmemorialeterno.utopiadesenvolvimentos.com.br` — ao
 definir, atualizar as URLs `canonical`/OG no `index.html`, o `sitemap.xml` e o
 `robots.txt`, e adicionar um arquivo `CNAME` se for GitHub Pages.
 
