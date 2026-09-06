@@ -39,3 +39,13 @@ definir, atualizar as URLs `canonical`/OG no `index.html`, o `sitemap.xml` e o
 Copy e imagens adaptados da versão em `vinext` criada anteriormente
 (`Modelos_de_Servico_UtopiaDesenvolvimentos/Pagina_vendas_individual/Memorial_Eterno_pagina`),
 convertida para HTML estático para carregamento rápido e melhor indexação.
+
+---
+
+## Status e pendências
+
+Visão completa (o que foi feito, o que falta, deploy, DNS) em
+`C:\dev\STATUS-site-memorial-eterno-vendas.md` e `C:\dev\STATUS-Utopia-VISAO-GERAL.md`.
+
+Resumo: página pronta, **falta publicar** (Vercel/Cloudflare Pages/GitHub Pages)
+e criar o registro CNAME do subdomínio no Registro.br.
